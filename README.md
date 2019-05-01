@@ -1,1 +1,1 @@
-## Exercicios do Curso do site Minerando Dados
+## Exercicios Algoritmos Machine Learning
