@@ -1,1 +1,1 @@
-# minerando-dados
+## Exercicios do Curso do site Minerando Dados
