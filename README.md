@@ -9,3 +9,4 @@
 2. Árvore de Decisão<br>
 2.1. Árvore de Decisão aplicada na classificação de folhas do dataset IRIS<br>
 2.2. Árvore de Decisão aplicada na no dataset bank-credit<br>
+2.3. Árvore de Decisão - lista de exercícios
